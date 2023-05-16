@@ -1,0 +1,2 @@
+# ignore node_modules on server project repository
+node_modules
